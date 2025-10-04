@@ -1,0 +1,9 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.000000" height="20.000000" fill="none" customFrame="#000000">
+	<defs>
+		<image id="image_2" width="64.000000" height="64.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAAuNJREFUeJzt2j+MlEUcxvHPosZwAVHCnWjUUBgTkQoaKMCoqA1QWVCaSG9BiJ3R1o7YkdBfqKAgByGBUBho1BA7oxiVP8dZIJeoRDm0mL3C8x12331ndvbO+SZPM+/7zj7P7/2z8847VCqVSqVSqVT+n/Q6HDuFd3AIO/EinsGvWMANXMZFXMHDlv2vwx68hX14ATN4GnfxE77GGVzA7x2ytGIGn/d/8O8h9R2OYeMQ/T+Fj/B9i/5/63uaTpAvSk8IsdjC2Erdxgear7wejmC+Q/+LOBrpvxNTONXB2ErNCVfSMltxPmH/s33PycJfTWhuWT/iNewQ7ufU/V9JUYSetGd+pRb6ytX/rI63w7GM5salo6OGn8a9CQjQVYt4NhbysUcU4DPsHVCk1cCTfc01bYzdH1P4RcInaWH+wBYNg6V1kQPetXbCw3rsb9oQK8DBfF6KcaipMVaAXRmNlGJnU2OsAC9lNFKKbU2NsYfgX3g8m5UyPMATKxtjV8DdvF6KcL+pMVaAGxmNlOJ2U2OsANczGinFN02NsQKcy2ikFGfb7DyDJeXH8am0JMw5/IfYFbAgzOWtFS4KM02t2K/8mUulN9qGX+aLCTDfVVdHDQ+vC9PZpUOMqocSvNKfnIAgo+pE1/CwWbep6lKa73tPwpvCWLp0qGG1JMxpJOXTCQg2rD5OHZ4wZpibgHCDdFZ8fNOZjfhqAkLG9CU25Aq/zHP4oXDQJv0sfEEeC6/gZuZAbXSz72msTEoR7mB75qxRtuPWAIM5dQuvZk85gG341vjDX8fL+eMNx1ZcM77w10Te70uyAaflDz+HTWPK1JoePpEv/HGP/qA7MRzWbhHVIN3H++MMkILd0vxDLAjL5FYlM8IM86jhL+H5sbtOTA8f4k/DB38gPEtWxf0+LPuEL06Dws/j7UIes7NFWLkVCz/b32fNc8C/3yPu4L2ijgowLaxBPCXzGt9KpVKpVCqVJv4BaYJchcdDebEAAAAASUVORK5CYII=" />
+		<pattern id="pattern_2" width="1.000000" height="1.000000" image-fill-type="fill" patternContentUnits="objectBoundingBox">
+			<use transform="matrix(0.015625,0,0,0.015625,0,0)" xlink:href="#image_2" />
+		</pattern>
+	</defs>
+	<rect id="icons8-сердце-64 1" width="20.000000" height="20.000000" x="0.000000" y="0.000000" fill="url(#pattern_2)" />
+</svg>
