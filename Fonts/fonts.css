@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Inria Serif;
+    src: url(Fonts/InriaSerif-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: Inria Serif;
+    src: url(Fonts/InriaSerif-Light.ttf) format("truetype")
+    url(Fonts/InriaSerif-Light.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: Inria Serif;
+    src: url(Fonts/InriaSerif-Regular.ttf)
+    url(Fonts/InriaSerif-Regular.woff2) format("woff2");
+}
